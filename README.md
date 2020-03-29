@@ -1,5 +1,5 @@
 # html
-html based templates
+html basic templates
 <<!DOCTYPE html>
 <html>
 <head>
